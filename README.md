@@ -7,6 +7,6 @@ Materials for R training
 - [Subsetting & Functions](http://rpubs.com/kfrost14/SubsetFunctions)
 - [Conditionals & Loops](#http://example.com)
 - [Plotting](http://rpubs.com/kfrost14/plotting)
-- [Basic Stats](#http://example.com)
+- [Basic Stats](http://rpubs.com/kfrost14/BasicStats)
 - [Regression](#http://example.com)
 - [QA & Common Pitfalls](#http://example.com)
