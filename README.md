@@ -14,7 +14,7 @@ Materials for R training
     -   Exercise 5 
 - <a href="http://rpubs.com/kfrost14/BasicStats", target="_blank">Basic Statistics</a>
     -   Exercise 6 
-- <a href="http://rpubs.com/kfrost14/RegressTransform",target="_blank">Regression & Data Transformations</a>
+- <a href="http://rpubs.com/kfrost14/RegressTransform", target="_blank">Regression & Data Transformations</a>
     -  Exercise 7
 - [QA & Common Pitfalls](#http://example.com)
     -   Exercise 8 
