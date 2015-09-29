@@ -4,7 +4,7 @@ Introduction to R
 Materials for R training
 - <a href="http://rpubs.com/kfrost14/IntroToR", target="_blank">Introduction to R</a>
     -     Exercise 1
-- <a href="http://rpubs.com/kfrost14/DataTypes",target="_blank">Data Types & Importing, Exporting Data</a>
+- <a href="http://rpubs.com/kfrost14/DataTypes",target="_blank">Data Types & Importing Data</a>
     -     Exercise 2
 - <a href="http://rpubs.com/kfrost14/SubsetFunctions",target="_blank">Subsetting & Functions</a>
 - <a href="http://rpubs.com/kfrost14/CondLoops", target="_blank">Conditionals & Loops</a>
