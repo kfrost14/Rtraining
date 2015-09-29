@@ -3,9 +3,9 @@ Introduction to R
 
 Materials for R training
 1. <a href="http://rpubs.com/kfrost14/IntroToR", target="_blank">Introduction to R</a>
-    + Exercise 1
+    2. Exercise 1
 2. <a href="http://rpubs.com/kfrost14/DataTypes",target="_blank">Data Types & Importing, Exporting Data</a>
-    + Exercise 2
+    3. Exercise 2
 3. <a href="http://rpubs.com/kfrost14/SubsetFunctions",target="_blank">Subsetting & Functions</a>
 4. <a href="http://rpubs.com/kfrost14/CondLoops", target="_blank">Conditionals & Loops</a>
 5. <a href="http://rpubs.com/kfrost14/plotting", target="_blank">Plotting</a>
