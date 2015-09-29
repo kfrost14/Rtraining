@@ -2,7 +2,7 @@
 Introduction to R
 
 Materials for R training
-1. <a href="http://rpubs.com/kfrost14/IntroToR", target="_blank">Introduction to R</a>
+- <a href="http://rpubs.com/kfrost14/IntroToR", target="_blank">Introduction to R</a>
     -     Exercise 1
 - <a href="http://rpubs.com/kfrost14/DataTypes",target="_blank">Data Types & Importing, Exporting Data</a>
     -     Exercise 2
