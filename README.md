@@ -8,5 +8,5 @@ Materials for R training
 - [Conditionals & Loops](#http://example.com)
 - [Plotting](http://rpubs.com/kfrost14/plotting)
 - [Basic Stats](http://rpubs.com/kfrost14/BasicStats)
-- [Regression](#http://example.com)
+- [Regression & Data Transformations](#http://example.com)
 - [QA & Common Pitfalls](#http://example.com)
