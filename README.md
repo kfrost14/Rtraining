@@ -3,10 +3,10 @@ Introduction to R
 
 Materials for R training
 - <a href="http://rpubs.com/kfrost14/IntroToR", target="_blank">Introduction to R</a>
-- [Data Types & Importing, Exporting Data](http://rpubs.com/kfrost14/DataTypes)
-- [Subsetting & Functions](http://rpubs.com/kfrost14/SubsetFunctions)
-- [Conditionals & Loops](http://rpubs.com/kfrost14/CondLoops)
-- [Plotting](http://rpubs.com/kfrost14/plotting)
-- [Basic Stats](http://rpubs.com/kfrost14/BasicStats)
+- <a href="http://rpubs.com/kfrost14/DataTypes",target="_blank">Data Types & Importing, Exporting Data</a>
+- <a href="http://rpubs.com/kfrost14/SubsetFunctions",target="_blank">Subsetting & Functions</a>
+- <a href="http://rpubs.com/kfrost14/CondLoops", target="_blank">Conditionals & Loops</a>
+- <a href="http://rpubs.com/kfrost14/plotting", target="_blank">Plotting</a>
+- <a href="http://rpubs.com/kfrost14/BasicStats", target="_blank">Basic Statistics</a>
 - [Regression & Data Transformations](#http://example.com)
 - [QA & Common Pitfalls](#http://example.com)
