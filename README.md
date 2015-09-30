@@ -16,5 +16,5 @@ Materials for R training
     -   <a href="http://rpubs.com/kfrost14/Ex6", target="_blank">Exercise 6</a>
 - <a href="http://rpubs.com/kfrost14/RegressTransform", target="_blank">Regression & Data Transformations</a>
     -  <a href="http://rpubs.com/kfrost14/Ex7", target="_blank">Exercise 7</a>
-- [QA & Common Pitfalls](#http://example.com)
+- <a href="http://rpubs.com/kfrost14/QAPitfall", target="_blank">QA & Common Pitfalls</a>
    
