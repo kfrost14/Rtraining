@@ -8,7 +8,7 @@ Materials for R training
     -     <a href="http://rpubs.com/kfrost14/Ex2", target="_blank">Exercise 2</a>
 - <a href="http://rpubs.com/kfrost14/SubsetFunctions",target="_blank">Subsetting & Writing Functions</a>
     -   <a href="http://rpubs.com/kfrost14/Ex3", target="_blank">Exercise 3</a>
-- <a href="http://rpubs.com/kfrost14/CondLoops", target="_blank">Conditionals & Loops</a>
+- <a href="http://rpubs.com/kfrost14/FuncCondLoops", target="_blank">Writing Functions, Conditionals & Loops</a>
     -   <a href="http://rpubs.com/kfrost14/Ex3", target="_blank">Exercise 4</a>
 - <a href="http://rpubs.com/kfrost14/plotting", target="_blank">Plotting</a>
     -   <a href="http://rpubs.com/kfrost14/Ex5", target="_blank">Exercise 5</a>
